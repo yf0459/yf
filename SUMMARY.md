@@ -1,1 +1,16 @@
+# Table of contents
 
+* [iStoreOS](README.md)
+  * [1  iStoreOS的安装](istoreos/1-istoreos-de-an-zhuang/README.md)
+    * [1.1	在物理机上安装iStoreOS（以x86为例）](istoreos/1-istoreos-de-an-zhuang/1.1-zai-wu-li-ji-shang-an-zhuang-istoreos-yi-x86-wei-li/README.md)
+      * [1.1.1  直接写入U盘](istoreos/1-istoreos-de-an-zhuang/1.1-zai-wu-li-ji-shang-an-zhuang-istoreos-yi-x86-wei-li/1.1.1-zhi-jie-xie-ruupan.md)
+      * [1.1.2  利用PE系统写盘](istoreos/1-istoreos-de-an-zhuang/1.1-zai-wu-li-ji-shang-an-zhuang-istoreos-yi-x86-wei-li/1.1.2-li-yong-pe-xi-tong-xie-pan.md)
+      * [1.1.3  直接物理写盘](istoreos/1-istoreos-de-an-zhuang/1.1-zai-wu-li-ji-shang-an-zhuang-istoreos-yi-x86-wei-li/1.1.3-zhi-jie-wu-li-xie-pan.md)
+    * [1.2  在虚拟机上安装iStoreOS](istoreos/1-istoreos-de-an-zhuang/1.2-zai-xu-ni-ji-shang-an-zhuang-istoreos/README.md)
+      * [1.2.1  Hyper-V下安装iStoreOS](istoreos/1-istoreos-de-an-zhuang/1.2-zai-xu-ni-ji-shang-an-zhuang-istoreos/1.2.1-hyperv-xia-an-zhuang-istoreos.md)
+  * [2  IStoreOS的使用](istoreos/2-istoreos-de-shi-yong/README.md)
+    * [2.1  作为软路由玩耍](istoreos/2-istoreos-de-shi-yong/2.1-zuo-wei-ruan-lu-you-wan-shua/README.md)
+      * [2.1.1  主题美化](istoreos/2-istoreos-de-shi-yong/2.1-zuo-wei-ruan-lu-you-wan-shua/2.1.1-zhu-ti-mei-hua.md)
+      * [2.1.2  科学上网](istoreos/2-istoreos-de-shi-yong/2.1-zuo-wei-ruan-lu-you-wan-shua/2.1.2-ke-xue-shang-wang.md)
+    * [2.2  作为NAS玩耍](istoreos/2-istoreos-de-shi-yong/2.2-zuo-wei-nas-wan-shua.md)
+    * [2.3  NAS+软路由](istoreos/2-istoreos-de-shi-yong/2.3-nas+-ruan-lu-you.md)
