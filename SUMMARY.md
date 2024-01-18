@@ -15,3 +15,4 @@
     * [2.2  作为NAS玩耍](istoreos/2-istoreos-de-shi-yong/2.2-zuo-wei-nas-wan-shua.md)
     * [2.3  NAS+软路由](istoreos/2-istoreos-de-shi-yong/2.3-nas+-ruan-lu-you.md)
   * [💜 致谢](istoreos/zhi-xie.md)
+* [Home Assistant OS（待开始）](home-assistant-os-dai-kai-shi.md)
