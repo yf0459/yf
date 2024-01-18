@@ -14,3 +14,4 @@
       * [2.1.2  科学上网](istoreos/2-istoreos-de-shi-yong/2.1-zuo-wei-ruan-lu-you-wan-shua/2.1.2-ke-xue-shang-wang.md)
     * [2.2  作为NAS玩耍](istoreos/2-istoreos-de-shi-yong/2.2-zuo-wei-nas-wan-shua.md)
     * [2.3  NAS+软路由](istoreos/2-istoreos-de-shi-yong/2.3-nas+-ruan-lu-you.md)
+  * [💜 致谢](istoreos/zhi-xie.md)
